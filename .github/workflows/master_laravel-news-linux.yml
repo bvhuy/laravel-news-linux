@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'laravel-news-linux'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9670451C56C4304B14AAC2B1AF1894E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_225A26947AA342D3BCB0D2DD1792C34F }}
           package: .
