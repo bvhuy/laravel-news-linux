@@ -37,8 +37,8 @@ class Handler extends ExceptionHandler
         $this->reportable(function (Throwable $e) {
             //
         });
-        // $this->renderable(function (Throwable $e) {
-        //     return redirect()->route('error');
-        // });
+       // $this->renderable(function (Throwable $e) {
+       //     return redirect()->route('error');
+       // });
     }
 }

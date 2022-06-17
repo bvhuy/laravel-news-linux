@@ -279,12 +279,15 @@
 
 @media only screen and (min-width: 1224px) {
     /* Styles */
+    /*
     .logo img {
         width: 1000px;
     }
+
     .logo-footer img {
         width: 700px;
     }
+    */
 }
 
 
@@ -299,10 +302,13 @@
 
 @media only screen and (min-width: 1824px) {
     /* Styles */
+    /*
     .logo img {
         width: 1000px;
     }
+    
     .logo-footer img {
         width: 700px;
     }
+    */
 }

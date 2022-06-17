@@ -415,6 +415,7 @@ var notify = function(title, message, type) {
                     "table contextmenu directionality emoticons paste textcolor responsivefilemanager code autoresize fullscreen"
                 ],
                 toolbar1: "bold italic underline | alignleft aligncenter alignright | bullist numlist outdent indent | styleselect | fontsizeselect | link unlink | image media | forecolor backcolor | preview fullscreen code ",
+                media_live_embeds: true,
                 image_advtab: true,
                 file_browser_callback: laravelFileManager,
                 setup: function(editor) {
