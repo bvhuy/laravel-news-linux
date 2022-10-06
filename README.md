@@ -17,8 +17,8 @@ Password: (Đang cập nhật...)
 ```
 ### **Writer**
 ```
-Email: (Đang cập nhật...)
-Password: (Đang cập nhật...)
+Email: dtkiet@gmail.com
+Password: 123456
 ```
 ### **Editor**
 ```
