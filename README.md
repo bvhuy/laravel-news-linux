@@ -7,21 +7,21 @@
 ## II. Các tài khoản đăng nhập
 ### **Admin**
 ```
-username: btchuybui@gmail.com
-password: 123456
+Email: btchuybui@gmail.com
+Password: 123456
 ```
 ### **Subcriber** 
 ```
-username: (Đang cập nhật...)
-password: (Đang cập nhật...)
+Email: (Đang cập nhật...)
+Password: (Đang cập nhật...)
 ```
 ### **Writer**
 ```
-username: (Đang cập nhật...)
-password: (Đang cập nhật...)
+Email: (Đang cập nhật...)
+Password: (Đang cập nhật...)
 ```
 ### **Editor**
 ```
-username: (Đang cập nhật...)
-password: (Đang cập nhật...)
+Email: (Đang cập nhật...)
+Password: (Đang cập nhật...)
 ```
